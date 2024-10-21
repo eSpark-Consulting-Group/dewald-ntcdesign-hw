@@ -29,5 +29,8 @@ The board aims to act as a secondary board in a CAN network providing Temperatur
 ### Board Dimensions
 ![image](https://github.com/user-attachments/assets/9ff1a8d9-cd38-4594-8c93-7d55fc0aac09)
 
+### Additional Notes
+- Original client PRD present under docs folder. It is incomplete however but can serve some reference purposes.
+
 
 
